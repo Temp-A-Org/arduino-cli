@@ -1,0 +1,17 @@
+source: /docs/
+collections_config:
+  pages:
+    path: ''
+    name: Pages
+    icon: wysiwyg
+  guides:
+    path: guides
+    name: Guides
+    icon: games
+paths:
+  static: ''
+  uploads: uploads
+timezone: Pacific/Auckland
+markdown:
+  engine: commonmark
+  options: {}
